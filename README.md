@@ -26,8 +26,8 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nicolasgms&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgms&layout=compact&theme=radical)  
 
 ---
 
@@ -66,8 +66,8 @@ Bienvenue sur mon profil GitHub !
 
 ## 📈 Statistiques GitHub  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nicolasgms&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgms&layout=compact&theme=radical)  
 
 ---
 
